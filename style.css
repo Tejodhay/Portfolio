@@ -818,6 +818,10 @@ footer i:hover{
         width: 100%;
         margin-bottom:35px ;
     }
+    .qualification .exp-content .card{
+        width: calc(50% - 10px);
+        margin-bottom: 20px;
+    }
 }
 @media (max-width: 690px) {
     .max-width{
@@ -829,7 +833,7 @@ footer i:hover{
     .index .home-content .text-3 {
         font-size: 32px;
     }
-    .qualification .edu-content .card, .skills .skills-content .column,.contact .contact-content .column{
+    .qualification .edu-content .card,.qualification .exp-content .card, .skills .skills-content .column,.contact .contact-content .column{
         width: 100%;
     }
 }
