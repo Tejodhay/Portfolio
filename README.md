@@ -1,4 +1,6 @@
 Responsive personal portfolio website using HTML, CSS, Java Script.
+Portfolio:
+https://tejodhay.github.io/Portfolio/ 
 
 Home:
 
